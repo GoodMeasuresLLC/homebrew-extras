@@ -1,8 +1,8 @@
 class GitWoe < Formula
   homepage ""
-  url "https://github.com/GoodMeasuresLLC/git-woe/archive/1.0.9.tar.gz"
-  version "1.0.9"
-  sha1 "aa023552165f71d1108e66875d8522ea5af5a79e"
+  url "https://github.com/GoodMeasuresLLC/git-woe/archive/1.0.10.tar.gz"
+  version "1.0.10"
+  sha1 "62950456739e4e28766fb61053fe88976b0775ce"
 
   def install
     bin.install "git-woe"
